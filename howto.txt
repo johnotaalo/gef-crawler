@@ -1,0 +1,1 @@
+scrapy crawl projects -o projects-data.csv -t csv
